@@ -21,7 +21,6 @@
 import sys
 import ffmpeg
 import os
-from multiprocessing import Process, Queue
 #PY QT imports
 
 from PyQt5 import QtCore, QtGui, QtWidgets
